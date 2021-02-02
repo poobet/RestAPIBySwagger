@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RestAPI</name>
+    </assembly>
+    <members>
+        <member name="T:RestAPI.Model.v1_0.LoginModel">
+            <summary>
+            Json Properties
+            </summary>
+        </member>
+    </members>
+</doc>
