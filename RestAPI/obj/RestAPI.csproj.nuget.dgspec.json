@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\RESTAPI\\RestAPI\\RestAPI.csproj": {}
+    "D:\\ProjectPoobet\\RestAPIBySwagger\\RestAPI\\RestAPI.csproj": {}
   },
   "projects": {
-    "E:\\RESTAPI\\RestAPI\\RestAPI.csproj": {
+    "D:\\ProjectPoobet\\RestAPIBySwagger\\RestAPI\\RestAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\RESTAPI\\RestAPI\\RestAPI.csproj",
+        "projectUniqueName": "D:\\ProjectPoobet\\RestAPIBySwagger\\RestAPI\\RestAPI.csproj",
         "projectName": "RestAPI",
-        "projectPath": "E:\\RESTAPI\\RestAPI\\RestAPI.csproj",
-        "packagesPath": "C:\\Users\\Poobet\\.nuget\\packages\\",
-        "outputPath": "E:\\RESTAPI\\RestAPI\\obj\\",
+        "projectPath": "D:\\ProjectPoobet\\RestAPIBySwagger\\RestAPI\\RestAPI.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\ProjectPoobet\\RestAPIBySwagger\\RestAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Poobet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
